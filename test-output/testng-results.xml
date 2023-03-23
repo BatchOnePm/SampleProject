@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T07:54:07Z" name="Default suite" finished-at="2023-03-20T07:54:14Z" duration-ms="7117">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T07:54:07Z" name="Default test" finished-at="2023-03-20T07:54:14Z" duration-ms="7117">
+      <class name="Facebook.Testcases.FacebookLoginTestcases">
+        <test-method signature="browserLaunch()[pri:0, instance:Facebook.Testcases.FacebookLoginTestcases@181e731e]" started-at="2023-03-20T07:54:07Z" name="browserLaunch" finished-at="2023-03-20T07:54:14Z" duration-ms="7070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+      </class> <!-- Facebook.Testcases.FacebookLoginTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
